@@ -1,1 +1,1 @@
-#Implementing machine learning model on Magic Gamma Telescope Dataset
+Implementing machine learning algorithms on Magic Gamma Telescope Dataset
